@@ -16,7 +16,7 @@
 #### ✅ **Corrección:**
 Eliminar el for ya que no es necesario.
 
-<hr style="border: 0.5px solid #ccc;">
+__
 
 #### 2️⃣**Error en la comparación dentro del `if`**
 📍 **Línea 22**
@@ -30,7 +30,7 @@ Eliminar el for ya que no es necesario.
 `if (agujeroElegido == agujeroMonigote1 || agujeroElegido == agujeroMonigote2) {`
 Ahora se compara correctamente si el jugador ha acertado.
 
-<hr style="border: 0.5px solid #ccc;">
+___
 
 #### 3️⃣ **Error en la generación de números aleatorios**
 📍 **Línea 19-20**
@@ -40,17 +40,15 @@ Ahora se compara correctamente si el jugador ha acertado.
 agujeroMonigote2 = (int) (Math.random() * (16) + 1);
 `
 #### 🔴 **Probelema:**
-•`agujeroMonigote1 y agujeroMonigote2 pueden ser iguales, lo que no es deseado.`
+•`agujeroMonigote1 y agujeroMonigote2`pueden ser iguales, lo que no es deseado.
 
 
 #### ✅ **Corrección:**
-`agujeroMonigote1 = (int) (Math.random() * 16 + 1);
+`agujeroMonigote1 = (int) (Math.random() * 16 + 1);`
 
-do {
-agujeroMonigote2 = (int) (Math.random() * 16 + 1);
-} while (agujeroMonigote1 == agujeroMonigote2);`
-
-
+`do {`
+`agujeroMonigote2 = (int) (Math.random() * 16 + 1);`
+`} while (agujeroMonigote1 == agujeroMonigote2);`
 
 🔗 **[Código corregido]()**
 
