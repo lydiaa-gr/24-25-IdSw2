@@ -16,18 +16,41 @@
 #### ✅ **Corrección:**
 Eliminar el for ya que no es necesario.
 
-___
+<hr style="border: 0.5px solid #ccc;">
+
 #### 2️⃣**Error en la comparación dentro del `if`**
 📍 **Línea 22**
 #### ❌ **Código incorrecto:**
 `if (agujeroElegido == (agujeroMonigote1 | agujeroMonigote2)) {`
 #### 🔴 **Probelema:**
-Se está usando `|` (operador de bits) en lugar de `||` (operador lógico OR).
+•Se está usando `|` (operador de bits) en lugar de `||` (operador lógico OR).
 
-`agujeroElegido == (agujeroMonigote1 | agujeroMonigote2)` no es una comparación válida.
+•`agujeroElegido == (agujeroMonigote1 | agujeroMonigote2)` no es una comparación válida.
 #### ✅ **Corrección:**
 `if (agujeroElegido == agujeroMonigote1 || agujeroElegido == agujeroMonigote2) {`
 Ahora se compara correctamente si el jugador ha acertado.
+
+<hr style="border: 0.5px solid #ccc;">
+
+#### 3️⃣ **Error en la generación de números aleatorios**
+📍 **Línea 19-20**
+#### ❌ **Código incorrecto:**
+`agujeroMonigote1 = (int) (Math.random() * (16) + 1);
+
+agujeroMonigote2 = (int) (Math.random() * (16) + 1);
+`
+#### 🔴 **Probelema:**
+•`agujeroMonigote1 y agujeroMonigote2 pueden ser iguales, lo que no es deseado.`
+
+
+#### ✅ **Corrección:**
+`agujeroMonigote1 = (int) (Math.random() * 16 + 1);
+
+do {
+agujeroMonigote2 = (int) (Math.random() * 16 + 1);
+} while (agujeroMonigote1 == agujeroMonigote2);`
+
+
 
 🔗 **[Código corregido]()**
 
