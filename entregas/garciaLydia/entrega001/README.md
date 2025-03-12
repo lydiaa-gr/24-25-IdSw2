@@ -9,24 +9,21 @@
 ---
 
 
-
-
-
-
 ## **Programación II - CCF**
-#####📌 **[Código original](https://github.com/lydiaa-gr/23-24-prg2/tree/main/entregas/garciaLydia/Carrefour)**  
+##### 📌 **[Código original](https://github.com/lydiaa-gr/23-24-prg2/tree/main/entregas/garciaLydia/Carrefour)**  
 ##### 🔗 **[❌ Errores encontrados]()**
 ##### 🔗 **[✅ Código corregido]()**
 
 ---
 
 ## **EDA I - Encuesta Nutricional**
-#####📌 **[Código original](https://github.com/lydiaa-gr/23-24-eda1/tree/main/entregas/garciaLydia/reto007)**  
+##### 📌 **[Código original](https://github.com/lydiaa-gr/23-24-eda1/tree/main/entregas/garciaLydia/reto007)**  
 ##### 🔗 **[❌ Errores encontrados]()**
 ##### 🔗 **[✅ Código corregido]()**
 
 ---
 
 ## **EDA II - BarajaCartas**
+##### 📌 **[Código original](https://github.com/lydiaa-gr/23-24-eda2/tree/main/entregas/garciaLydia/reto007)**  
 ##### 🔗 **[❌ Errores encontrados]()**
 ##### 🔗 **[✅ Código corregido]()**
