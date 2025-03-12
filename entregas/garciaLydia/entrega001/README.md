@@ -18,8 +18,8 @@
 
 ## **EDA I - Encuesta Nutricional**
 ##### 📌 **[Código original](https://github.com/lydiaa-gr/23-24-eda1/tree/main/entregas/garciaLydia/reto007)**  
-##### 🔗 **[❌ Errores encontrados]()**
-##### 🔗 **[✅ Código corregido]()**
+##### 🔗 **[❌ Errores encontrados](https://github.com/lydiaa-gr/24-25-IdSw2/blob/main/entregas/garciaLydia/entrega001/errores/EDA1/erroresEDA1.md)**
+##### 🔗 **[✅ Código corregido](https://github.com/lydiaa-gr/24-25-IdSw2/blob/main/entregas/garciaLydia/entrega001/CodigosCorregidos/CodigoCorregidoEDA1)**
 
 ---
 
