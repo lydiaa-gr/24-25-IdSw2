@@ -11,7 +11,7 @@
 
 ## **Programación II - CCF**
 ##### 📌 **[Código original](https://github.com/lydiaa-gr/23-24-prg2/tree/main/entregas/garciaLydia/Carrefour)**  
-##### 🔗 **[❌ Errores encontrados]()**
+##### 🔗 **[❌ Errores encontrados](https://github.com/lydiaa-gr/24-25-IdSw2/blob/main/entregas/garciaLydia/entrega001/errores/Progra2/erroresP2.md)**
 ##### 🔗 **[✅ Código corregido]()**
 
 ---
