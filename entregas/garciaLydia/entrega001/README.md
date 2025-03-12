@@ -4,7 +4,7 @@
 ## **Programación I - WhacAMole**
 ##### 📌 **[Código original](https://github.com/lydiaa-gr/23-24-prg1/blob/main/entregas/garciaLydia/reto010/Whac/A/Mole.java)**
 ##### 🔗 **[❌ Errores encontrados](https://github.com/lydiaa-gr/24-25-IdSw2/blob/main/entregas/garciaLydia/entrega001/errores/Progra1/erroresP1.md)**
-##### 🔗 **[✅ Código corregido](https://github.com/lydiaa-gr/24-25-IdSw2/blob/main/entregas/garciaLydia/entrega001/CodigosCorregidps/WhacAMole.java)**
+##### 🔗 **[✅ Código corregido](https://github.com/lydiaa-gr/24-25-IdSw2/blob/main/entregas/garciaLydia/entrega001/CodigosCorregidos/WhacAMole.java)**
 
 ---
 
