@@ -1,8 +1,9 @@
-package entregas.garciaLydia.reto010.Whac.A;
+package entregas.garciaLydia.entrega001.CodigosCorregidos.CodigoCorregidoP1;
 
 import java.util.Scanner;
 
-public class Mole {
+public class WhacAMole {
+
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
@@ -49,3 +50,5 @@ public class Mole {
         System.out.println("\nJuego terminado. Has acertado " + aciertos + " veces.");
     }
 }
+
+

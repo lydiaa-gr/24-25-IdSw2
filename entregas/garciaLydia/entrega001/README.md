@@ -4,7 +4,7 @@
 ## **Programación I - WhacAMole**
 ##### 📌 **[Código original](https://github.com/lydiaa-gr/23-24-prg1/blob/main/entregas/garciaLydia/reto010/Whac/A/Mole.java)**
 ##### 🔗 **[❌ Errores encontrados](https://github.com/lydiaa-gr/24-25-IdSw2/blob/main/entregas/garciaLydia/entrega001/errores/Progra1/erroresP1.md)**
-##### 🔗 **[✅ Código corregido](https://github.com/lydiaa-gr/24-25-IdSw2/blob/main/entregas/garciaLydia/entrega001/CodigosCorregidos/CodigoCorregidoP1/WhacAMole.java)**
+##### 🔗 **[✅ Código corregido](https://github.com/lydiaa-gr/24-25-IdSw2/blob/main/entregas/garciaLydia/entrega001/CodigosCorregidos/CodigoCorregidoP1)**
 
 ---
 
@@ -12,7 +12,7 @@
 ## **Programación II - CCF**
 ##### 📌 **[Código original](https://github.com/lydiaa-gr/23-24-prg2/tree/main/entregas/garciaLydia/Carrefour)**  
 ##### 🔗 **[❌ Errores encontrados](https://github.com/lydiaa-gr/24-25-IdSw2/blob/main/entregas/garciaLydia/entrega001/errores/Progra2/erroresP2.md)**
-##### 🔗 **[✅ Código corregido]()**
+##### 🔗 **[✅ Código corregido](https://github.com/lydiaa-gr/24-25-IdSw2/blob/main/entregas/garciaLydia/entrega001/CodigosCorregidos/CodigoCorregidoP2)**
 
 ---
 
