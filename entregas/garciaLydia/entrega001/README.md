@@ -25,5 +25,5 @@
 
 ## **EDA II - BarajaCartas**
 ##### 📌 **[Código original](https://github.com/lydiaa-gr/23-24-eda2/tree/main/entregas/garciaLydia/reto007)**  
-##### 🔗 **[❌ Errores encontrados]()**
-##### 🔗 **[✅ Código corregido]()**
+##### 🔗 **[❌ Errores encontrados](https://github.com/lydiaa-gr/24-25-IdSw2/blob/main/entregas/garciaLydia/entrega001/errores/EDA2/erroresEDA2.md)**
+##### 🔗 **[✅ Código corregido](https://github.com/lydiaa-gr/24-25-IdSw2/blob/main/entregas/garciaLydia/entrega001/CodigosCorregidos/CodigoCorregidoEDA2)**
